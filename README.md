@@ -41,8 +41,8 @@ Estou buscando minha primeira oportunidade como **desenvolvedor Go júnior ou fr
 
 Sinta-se à vontade para se conectar ou entrar em contato:
 
-* **LinkedIn:** [Seu perfil do LinkedIn aqui](https://www.linkedin.com/in/rodrigo-da-silva-163325375/) (Assim que criar, atualize este link!)
-* **E-mail:** [Seu novo e-mail profissional aqui](mailto:rodrigo.dev.go@gmail.com)
+* **LinkedIn:** (https://www.linkedin.com/in/rodrigo-da-silva-163325375/) (Assim que criar, atualize este link!)
+* **E-mail:** (mailto:rodrigo.dev.go@gmail.com)
 
 ---
 
